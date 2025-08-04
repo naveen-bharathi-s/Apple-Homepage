@@ -2,7 +2,7 @@ import React from 'react'
 
 const HeroSectionOne = () => {
     return (
-        <section className='min-h-screen bg-cover text-center flex flex-col items-center justify-between py-12 md:py-4 lg:py-2' style={{
+        <section className='min-h-screen bg-cover text-center py-16 md:py-8 lg:py-4 flex flex-col items-center justify-between ' style={{
             backgroundImage: "url('https://www.apple.com/v/home/cf/images/heroes/macbook-air/hero_macbook_air_avail__fpm99qgohx2e_largetall.jpg')",
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",
@@ -11,7 +11,7 @@ const HeroSectionOne = () => {
         }}
         >
             
-                <div className='space-y-4 text-center px-4 md:px-8 lg:px-16'>
+                <div className='space-y-4 text-center'>
                     <h1 className='text-3xl md:text-5xl font-bold'>MacBook Air</h1>
                     <div>
                         <p className='text-xl md:text-2xl'>Shy Blue Color</p>
