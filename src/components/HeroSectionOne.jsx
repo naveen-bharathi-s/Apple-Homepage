@@ -2,7 +2,7 @@ import React from 'react'
 
 const HeroSectionOne = () => {
     return (
-        <section className='min-h-screen bg-cover text-center flex flex-col items-center justify-between py-24 md:py-16 lg:py-10' style={{
+        <section className='min-h-screen bg-cover text-center flex flex-col items-center justify-between py-12 md:py-4 lg:py-2' style={{
             backgroundImage: "url('https://www.apple.com/v/home/cf/images/heroes/macbook-air/hero_macbook_air_avail__fpm99qgohx2e_largetall.jpg')",
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",

@@ -2,7 +2,7 @@ import React from 'react'
 
 const HeroSection = () => {
   return (
-    <section className='min-h-screen bg-cover my-4 p-0 text-center'  style={{
+    <section className='h-screen bg-cover my-4 md:my-2 text-center flex items-start justify-center'  style={{
        backgroundImage: "url('https://www.apple.com/v/home/cf/images/heroes/iphone-family/hero_iphone_family__fuz5j2v5xx6y_largetall.jpg')",
        backgroundPosition: "center",
        backgroundRepeat: "no-repeat",
@@ -10,7 +10,7 @@ const HeroSection = () => {
       
     }}
     >
-      <div className=' space-y-2 md:space-y-4 lg:py-2 md:py-16 py-28'>
+      <div className=' space-y-2 lg:space-y-4 py-8 md:4 lg:py-2'>
         <h1 className='text-3xl md:text-6xl font-bold'>iPhone</h1>
         <p className='text-xl md:text-2xl'>Meet the iPhone 16 family</p>
         <div className='space-x-3 md:space-x-6'>
