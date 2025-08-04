@@ -1,12 +1,28 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🍎 Apple Homepage Clone
 
-Currently, two official plugins are available:
+This is a responsive clone of the Apple homepage built using **HTML5**, **Tailwind CSS**, **JavaScript**, and **React JS (Vite)**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
 
-## Expanding the ESLint configuration
+- HTML5  
+- Tailwind CSS  
+- JavaScript  
+- React JS  
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- Fully responsive across all devices (mobile, tablet, desktop)
+- Pixel-perfect design closely resembling Apple’s official homepage
+- Modern UI using Tailwind utility-first CSS framework
+- Component-based architecture using React
+
+## 🔗 Live Demo
+
+https://apple-homepage-tau.vercel.app/
+
+Thanks for visiting my page.
+
+
